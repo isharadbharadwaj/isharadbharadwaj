@@ -51,12 +51,6 @@ I document my journey from a Senior PHP Dev to a Solution Architect on Medium.
 
 ---
 
-### 📈 GitHub Stats
-
-![Sharad's GitHub stats](https://github-readme-stats.vercel.app/api?username=isharadbharadwaj&show_icons=true&theme=radical&hide_border=true)
-
----
-
 <div align="center">
   <sub>Let's build something scalable. 🚀</sub>
 </div>
